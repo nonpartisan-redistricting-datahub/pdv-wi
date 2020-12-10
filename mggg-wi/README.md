@@ -5,6 +5,10 @@ Replication files and data for [MGGG's WI](https://github.com/mggg-states/WI-sha
 
 All raw data and MGGG's final WI shapefile are stored on AWS. 
 
+LTSB file name is: 2018-2012_Election_Data_with_2011_Wards-shp
+
+MGGG file name is: WI_wards_12_16
+
 Detailed data [documentation](https://docs.google.com/document/d/1qTgRii78KPWp4hfAG9CtSZFGQi-iHFS35drfeNVYHa4/edit?usp=sharing)
     
 [Write-up](https://docs.google.com/document/d/1ldrjychpDEVwp6gegcq48ViosX5-EecCGCRJQBpLQAI/edit?usp=sharing)
