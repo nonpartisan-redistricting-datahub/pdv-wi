@@ -8,7 +8,7 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
 
 ## vest-wi-2016
 
-RDH's partner data validation for VEST's 2016 WI file. VEST's raw file is available [here](link to dataverse file that we validated). 
+RDH's partner data validation for VEST's 2016 WI file. VEST's raw file is available [here](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/NH5S2I). 
 
 View the final report [here](https://redistrictingdatahub.org/dataset/vest-2016-wisconsin-precinct-and-election-results/).
 
