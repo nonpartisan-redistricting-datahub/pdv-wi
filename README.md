@@ -20,7 +20,7 @@ View the final report [here](https://redistrictingdatahub.org/dataset/vest-2018-
 
 ## vest-wi-2016
 
-RDH's partner data validation for VEST's 2016 WI file. VEST's raw file is available [here](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/NH5S2I). 
+RDH's partner data validation for VEST's 2016 WI file. VEST's raw file is available [here](https://dataverse.harvard.edu/file.xhtml?fileId=4468121&version=71.0). 
 
 View the final report [here](https://redistrictingdatahub.org/dataset/vest-2016-wisconsin-precinct-and-election-results/).
 
