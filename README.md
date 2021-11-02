@@ -6,12 +6,11 @@ We do not have the raw data sources available on this Github due to file constra
 
 Please reach out to info@redistrictingdatahub.org to reach our support team if you have any questions.
 
-## vest-wi-2016
+## vest-wi-2020
 
-RDH's partner data validation for VEST's 2016 WI file. VEST's raw file is available [here](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/NH5S2I). 
+RDH's partner data validation for VEST's 2020 WI file. VEST's raw file is available [here](https://dataverse.harvard.edu/file.xhtml?fileId=4773528&version=21.0). 
 
-View the final report [here](https://redistrictingdatahub.org/dataset/vest-2016-wisconsin-precinct-and-election-results/).
-
+View the final report [here](https://redistrictingdatahub.org/dataset/vest-2020-wisconsin-precinct-and-election-results/).
 
 ## vest-wi-2018
 
@@ -19,6 +18,11 @@ RDH's partner data validation for VEST's 2018 WI file. VEST's raw file is availa
 
 View the final report [here](https://redistrictingdatahub.org/dataset/vest-2018-wisconsin-precinct-and-election-results/).
 
+## vest-wi-2016
+
+RDH's partner data validation for VEST's 2016 WI file. VEST's raw file is available [here](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/NH5S2I). 
+
+View the final report [here](https://redistrictingdatahub.org/dataset/vest-2016-wisconsin-precinct-and-election-results/).
 
 ## mggg-wi
 
